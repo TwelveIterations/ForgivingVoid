@@ -1,1 +1,3 @@
-- Fixed embedded Shogi API falsely overriding newer versions of the Shogi API, resulting in startup crashes with other mods using newer versions of Shogi
+- Fixed crash on NeoForge due to missing shogi-api jarjar
+- Changed Shogi rules to be defined in `forgivingvoid.rules.json` instead of default Shogi scope
+- Added `loops` variable to `forgivingvoid:falling_height` rule
