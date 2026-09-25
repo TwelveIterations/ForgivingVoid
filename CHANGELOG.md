@@ -1,1 +1,3 @@
-- Updated to Minecraft 26.2
+- Fixed crash on NeoForge due to missing shogi-api jarjar
+- Changed Shogi rules to be defined in `forgivingvoid.rules.json` instead of default Shogi scope
+- Added `loops` variable to `forgivingvoid:falling_height` rule
