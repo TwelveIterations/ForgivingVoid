@@ -1,1 +1,1 @@
-- Updated to Minecraft 26.3
+- Fixed crash on NeoForge due to missing shogi-api jarjar
